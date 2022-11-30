@@ -1,0 +1,10 @@
+assets:
+- method: binarc
+  name: obj/N_EX610_BTL.mdlx
+  source:
+  - method: bdscript
+    name: n_ex
+    source:
+    - name: n_ex.bdscript
+    type: Bdx
+title: Simple AI Edit
